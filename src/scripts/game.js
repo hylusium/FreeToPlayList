@@ -3,7 +3,7 @@ async function FetchData() {
   const options = {
     method: "GET",
     headers: {
-      "x-rapidapi-key": "312c0000d3msh4fdc1973c51ec6ep175949jsn34610c9e1160",
+      "x-rapidapi-key": "",
       "x-rapidapi-host": "free-to-play-games-database.p.rapidapi.com",
     },
   };
